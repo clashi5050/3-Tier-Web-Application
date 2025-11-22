@@ -1,5 +1,7 @@
 Business Value: "A fault-tolerant, microservices-based architecture ensuring zero direct database exposure to the public internet."
 
+Build this locally on your machine using Docker Desktop
+
 How to run: docker-compose up -d.
 
 URL: http://localhost
